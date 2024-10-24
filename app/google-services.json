@@ -1,15 +1,15 @@
 {
   "project_info": {
     "project_number": "779793519631",
-    "project_id": "passkeep-84aa0",
-    "storage_bucket": "passkeep-84aa0.appspot.com"
+    "project_id": "passmng-84aa0",
+    "storage_bucket": "passmng-84aa0.appspot.com"
   },
   "client": [
     {
       "client_info": {
         "mobilesdk_app_id": "1:779793519631:android:59e8269ab37f00a4e37f7a",
         "android_client_info": {
-          "package_name": "com.example.passkeep"
+          "package_name": "com.example.passmng"
         }
       },
       "oauth_client": [
